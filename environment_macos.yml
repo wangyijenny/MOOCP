@@ -1,4 +1,4 @@
-name: test9
+name: moocp
 channels:
   - defaults
 dependencies:
@@ -73,4 +73,4 @@ dependencies:
     - wcwidth==0.2.6
     - wheel==0.38.4
     - wrapt==1.15.0
-prefix: /Users/annie/opt/anaconda3/envs/test9
+prefix: /Users/Lyle/opt/anaconda3/envs/moocp
